@@ -16,6 +16,7 @@ Database: Mongo DB
 (https://talk-a-tive-7fgq.onrender.com)
 
 **AUTHENTICATION**
+
 **LOGIN-IN PAGE:**
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/9ae3c51f-1ee8-4694-b8c0-6df373ac8aa0" />
 
@@ -24,6 +25,7 @@ Database: Mongo DB
 <img width="1907" height="913" alt="image" src="https://github.com/user-attachments/assets/86297a9b-13cc-4650-a9a5-0c79c87a4989" />
 
 **One to One chat**
+
 **CHATTING PORTAL:**
 <img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/20c0c2a3-3b21-4eca-84c1-dd10af063547" />
 
