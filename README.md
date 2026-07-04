@@ -13,3 +13,7 @@ Server: Node JS, Express JS
 
 Database: Mongo DB
 
+
+**DEMO OF Talk-A-Tive**
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/9ae3c51f-1ee8-4694-b8c0-6df373ac8aa0" />
+
